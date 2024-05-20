@@ -4,7 +4,11 @@ import org.slf4j.LoggerFactory;
 import java.util.Comparator;
 
 /**
- * Hello world!
+ * Note:
+ * <ul>
+ *     <li>Cannot redeclare local variable inside lambda</li>
+ *     <li>Cannot modify local variable inside lambda but local varaibles can be read!</li>
+ * </ul>
  *
  */
 public class LambdaExample
