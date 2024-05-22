@@ -39,6 +39,8 @@ public class StreamOperations
             NumericStreamDemo.runExample();
         } else if(args[0].equalsIgnoreCase("COLLECTORS") || ch==10){
             CollectorsDemo.runExample();
+        } else if(args[0].equalsIgnoreCase("OPTIONAL") || ch==11){
+            OptionalDemo.runExample();
         }
     }
 }
