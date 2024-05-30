@@ -12,6 +12,7 @@
     <module>lambda-examples</module>
     <module>functional-interfaces-example</module>
       <module>stream-operation</module>
+    <module>parallel-stream</module>
   </modules>
 
   <properties>
